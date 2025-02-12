@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gorditas:wght@400;700&display=swap');
 
 * {
   padding: 0;
@@ -83,12 +87,36 @@ body {
 /* DID word */
 
 .didDLetter {
+  font-size: 60px;
+  font-weight: bold;
+  color: #041E42;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: #FED 1px 0 10px;
+  font-family: 'Yellowtail', sans-serif;
 }
 
 .didILetter {
+  font-size: 30px;
+  font-weight: bold;
+  color: maroon;
+  background-color: burlywood;
+  font-style: italic;
+  text-decoration: none;
+  text-transform: lowercase;
+  text-shadow: #FED 1px 0 10px;
+  font-family: 'Fontdiner Swanky', sans-serif;
 }
 
 .didDTwoLetter {
+  font-size: 90px;
+  font-weight: bold;
+  color: #A09120;
+  background-color: brown;
+  font-style: italic;
+  text-decoration: line-through #B0B0B0;
+  text-transform: lowercase;
+  font-family: 'Gorditas', sans-serif;
 }
 
 /* THE word */
@@ -154,6 +182,14 @@ body {
 .takeTLetter {
 }
 .takeALetter {
+  font-size: 60px;
+  font-weight: bold;
+  color: maroon;
+  background-color: burlywood;
+  text-decoration: none;
+  text-transform: lowercase;
+  text-shadow: #FED 1px 0 10px;
+  font-family: 'Noto+Sans+JP', sans-serif;  
 }
 .takeKLetter {
 }
