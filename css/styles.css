@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700');
-@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gorditas:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Piazzolla&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700");
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gorditas:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap");
 
 * {
   padding: 0;
@@ -55,6 +57,18 @@ body {
   transition: all 0.8s ease-in-out;
 }
 
+.cowboys-blue {
+  color: #041e42;
+  background-color: #282a96;
+}
+
+.glowing-letter {
+  background-color: #282a96;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: #fed 1px 0 10px;
+}
+
 /* Sample CSS for the WHY word */
 
 .whyWLetter {
@@ -63,7 +77,7 @@ body {
   color: aqua;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .whyHLetter {
@@ -72,7 +86,7 @@ body {
   color: darkgoldenrod;
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: "Ceviche One", sans-serif;
 }
 
 .whyYLetter {
@@ -81,19 +95,15 @@ body {
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: "Raleway Dots", sans-serif;
 }
 
 /* DID word */
 
 .didDLetter {
   font-size: 60px;
-  font-weight: bold;
-  color: #041E42;
-  text-decoration: none;
-  text-transform: uppercase;
-  text-shadow: #FED 1px 0 10px;
-  font-family: 'Yellowtail', sans-serif;
+  font-weight: 700;
+  font-family: "Yellowtail", sans-serif;
 }
 
 .didILetter {
@@ -104,30 +114,51 @@ body {
   font-style: italic;
   text-decoration: none;
   text-transform: lowercase;
-  text-shadow: #FED 1px 0 10px;
-  font-family: 'Fontdiner Swanky', sans-serif;
+  text-shadow: #fed 1px 0 10px;
+  font-family: "Fontdiner Swanky", sans-serif;
 }
 
 .didDTwoLetter {
   font-size: 90px;
-  font-weight: bold;
-  color: #A09120;
+  font-weight: 400;
+  color: #a09120;
   background-color: brown;
   font-style: italic;
-  text-decoration: line-through #B0B0B0;
+  text-decoration: line-through #b0b0b0;
   text-transform: lowercase;
-  font-family: 'Gorditas', sans-serif;
+  font-family: "Gorditas", sans-serif;
 }
 
 /* THE word */
 
 .theTLetter {
+  font-size: 55px;
+  font-weight: normal;
+  color: lavender;
+  background-color: blueviolet;
+  text-decoration: underline overline purple;
+  text-transform: none;
+  font-family: "Ceviche One", sans-serif;
 }
 
 .theHLetter {
+  font-size: 20px;
+  font-weight: normal;
+  color: rgb(85, 85, 85);
+  background-color: chocolate;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Gorditas", sans-serif;
 }
 
 .theELetter {
+  font-size: 85px;
+  font-weight: normal;
+  color: #ff99ff;
+  background-color: #98ff98;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Mystery Quest", sans-serif;
 }
 
 /* FRONT-END word */
@@ -188,8 +219,8 @@ body {
   background-color: burlywood;
   text-decoration: none;
   text-transform: lowercase;
-  text-shadow: #FED 1px 0 10px;
-  font-family: 'Noto+Sans+JP', sans-serif;  
+  text-shadow: #fed 1px 0 10px;
+  font-family: "Noto+Sans+JP", sans-serif;
 }
 .takeKLetter {
 }
