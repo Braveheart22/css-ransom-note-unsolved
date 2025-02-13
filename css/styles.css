@@ -164,27 +164,71 @@ body {
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-size: 45px;
+  font-weight: bold;
+  color: navajowhite;
+  background-color: olive;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Caesar Dressing", sans-serif;
 }
 
 .frontendRLetter {
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: overline;
+  text-transform: none;
+  font-family: "Fontdiner Swanky", sans-serif;
 }
 
 .frontendOLetter {
+  font-size: 100px;
+  font-weight: 400;
+  text-decoration: overline;
+  text-transform: none;
+  font-family: "Yellowtail", sans-serif;
 }
 
 .frontendNLetter {
+  color: red;
+  background-color: black;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: underline;
+  font-family: "Raleway Dots", sans-serif;
 }
 
 .frontendTLetter {
+  font-size: 50px;
+  font-weight: normal;
+  color: darkcyan;
+  background-color: gold;
+  text-decoration: line-through;
+  text-transform: lowercase;
+  font-family: "Mystery Quest", sans-serif;
 }
 
 .frontendELetter {
+  font-size: 25px;
+  font-weight: bold;
+  background-image: radial-gradient(#282a56 10%, gold 25%, blue 70%);
 }
 
 .frontendNTwoLetter {
+  font-size: 95px;
+  font-weight: normal;
+  text-decoration: underline;
+  font-family: "Raleway Dots", sans-serif;
 }
 
 .frontendDLetter {
+  font-size: 75px;
+  font-weight: bold;
+  color: olive;
+  background-color: navajowhite;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Caesar Dressing", sans-serif;
 }
 
 /* DEVELOPER word */
