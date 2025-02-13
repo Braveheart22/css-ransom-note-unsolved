@@ -402,19 +402,67 @@ body {
   font-family: "Syncopate", sans-serif;
   background-image: linear-gradient(to top left, red, yellow);
 }
+
 .gardeningRLetter {
+  font-size: 12px;
+  font-weight: bold;
+  color: aqua;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Piazolla", sans-serif;
 }
+
 .gardeningDLetter {
+  font-size: 72px;
+  font-weight: bold;
+  color: green;
+  background-color: aqua;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: "Caesar Dressing", sans-serif;
 }
+
 .gardeningELetter {
+  font-size: 45px;
+  font-weight: normal;
+  color: rgb(59, 19, 105);
+  background-color: red;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: "Caesar Dressing", sans-serif;
 }
+
 .gardeningNLetter {
+  font-size: 85px;
+  font-weight: bold;
+  color: darkgoldenrod;
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: "Ceviche One", sans-serif;
 }
+
 .gardeningILetter {
+  font-size: 15px;
 }
+
 .gardeningNTwoLetter {
+  font-size: 45px;
+  font-weight: bold;
+  color: olivedrab;
+  background-color: indianred;
+  text-decoration: overline;
+  text-transform: lowercase;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .gardeningGTwoLetter {
+  font-size: 110px;
+  font-weight: normal;
+  color: indianred;
+  background-color: darkorchid;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: "FOntDiner Swanky", sans-serif;
 }
 
 /* BECAUSE word */
