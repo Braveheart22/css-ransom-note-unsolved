@@ -362,8 +362,23 @@ body {
 /* UP word */
 
 .upULetter {
+  font-size: 72px;
+  font-weight: bold;
+  color: aliceblue;
+  background-color: orangered;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: "Piazolla", sans-serif;
 }
+
 .upPLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: cornflowerblue;
+  background-color: plum;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Mystery Quest", sans-serif;
 }
 
 /* GARDENING word */
@@ -371,9 +386,8 @@ body {
 .gardeningGLetter {
   font-size: 55px;
   font-weight: normal;
-  color: darkmagenta;
-  background-color: rebeccapurple;
-  text-decoration: overline line-through;
+  color: seagreen;
+  text-decoration: none;
   text-transform: uppercase;
   font-family: "Syncopate", sans-serif;
   background-image: linear-gradient(to top right, red, yellow);
@@ -382,9 +396,8 @@ body {
 .gardeningALetter {
   font-size: 55px;
   font-weight: normal;
-  color: darkmagenta;
-  background-color: rebeccapurple;
-  text-decoration: overline line-through;
+  color: black;
+  text-decoration: line-through;
   text-transform: uppercase;
   font-family: "Syncopate", sans-serif;
   background-image: linear-gradient(to top left, red, yellow);
