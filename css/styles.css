@@ -469,8 +469,18 @@ body {
 
 .becauseBLetter {
 }
+
 .becauseELetter {
+  font-size: 90px;
+  font-weight: 400;
+  color: #cab61a;
+  background-color: brown;
+  font-style: italic;
+  text-decoration: line-through brown;
+  text-transform: lowercase;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .becauseCLetter {
 }
 .becauseALetter {
