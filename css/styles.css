@@ -69,6 +69,10 @@ body {
   text-shadow: #fed 1px 0 10px;
 }
 
+.rainbow {
+  background-image: conic-gradient(red, yellow, green, blue, violet, purple);
+}
+
 /* Sample CSS for the WHY word */
 
 .whyWLetter {
@@ -325,7 +329,6 @@ body {
   font-weight: bold;
   text-decoration: none;
   font-family: sans-serif;
-  background-image: conic-gradient(red, yellow, green, blue, violet, purple);
 }
 
 .takeALetter {
@@ -468,6 +471,8 @@ body {
 /* BECAUSE word */
 
 .becauseBLetter {
+  font-size: 50px;
+  font-weight: 700;
 }
 
 .becauseELetter {
@@ -482,7 +487,16 @@ body {
 }
 
 .becauseCLetter {
+  font-size: 45px;
+  font-weight: 400;
+  color: tomato;
+  background-color: cadetblue;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .becauseALetter {
 }
 .becauseULetter {
