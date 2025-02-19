@@ -592,16 +592,69 @@ body {
 /* WANTED word */
 
 .wantedWLetter {
+  font-size: 36px;
+  font-weight: 400;
+  color: rgb(87, 89, 190);
+  background-color: rgb(80, 205, 255);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Gorditas", sans-serif;
 }
+
 .wantedALetter {
+  font-size: 72px;
+  font-weight: 400;
+  color: rgb(196, 31, 31);
+  background-color: rgb(243, 247, 13);
+  font-style: normal;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  font-family: "Yellowtail", sans-serif;
 }
+
 .wantedNLetter {
+  font-size: 24px;
+  font-weight: 400;
+  color: rgb(172, 10, 221);
+  background-color: rgb(175, 233, 120);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .wantedTLetter {
+  font-size: 85px;
+  font-weight: 400;
+  color: rgb(220, 255, 19);
+  background-color: rgb(105, 109, 172);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Caesar Dressing", sans-serif;
 }
+
 .wantedELetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(40, 86, 107);
+  background-color: rgb(245, 177, 31);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Raleway Dots", sans-serif;
 }
+
 .wantedDLetter {
+  font-size: 120px;
+  font-weight: 400;
+  color: rgb(219, 153, 53);
+  background-color: rgb(142, 27, 177);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Fontdiner Swanky", sans-serif;
 }
 
 /* TO word */
