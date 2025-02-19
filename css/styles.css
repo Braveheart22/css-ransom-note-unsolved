@@ -641,7 +641,7 @@ body {
   color: rgb(40, 86, 107);
   background-color: rgb(245, 177, 31);
   font-style: normal;
-  text-decoration: none;
+  text-decoration: overline underline;
   text-transform: none;
   font-family: "Raleway Dots", sans-serif;
 }
