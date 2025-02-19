@@ -562,7 +562,7 @@ body {
   color: rgb(12, 121, 121);
   background-color: rgb(105, 33, 37);
   font-style: normal;
-  text-decoration: none;
+  text-decoration: underline;
   text-transform: none;
   font-family: "Gorditas", sans-serif;
 }
