@@ -698,17 +698,69 @@ body {
 }
 
 .improveMLetter {
+  font-size: 40px;
+  font-weight: 400;
+  color: #b2f14c;
+  background-color: #f125d6;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: "Caesar Dressing", sans-serif;
 }
 
 .improvePLetter {
+  font-size: 110px;
+  font-weight: 400;
+  color: #00862d;
+  background-color: #f3d189;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .improveRLetter {
+  font-size: 80px;
+  font-weight: 400;
+  color: #0f0f0f;
+  background-color: #ddc916;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: serif;
 }
+
 .improveOLetter {
+  font-size: 35px;
+  font-weight: 400;
+  color: #7c7c7c;
+  background-color: #ff4545;
+  font-style: normal;
+  text-decoration: line-through;
+  text-transform: none;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .improveVLetter {
+  font-size: 72px;
+  font-weight: 400;
+  color: #b915da;
+  background: radial-gradient(#f7eaa3, #b915da);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .improveELetter {
+  font-size: 24px;
+  font-weight: 400;
+  color: #162add;
+  background-color: #ddc916;
+  font-style: normal;
+  text-decoration: overline;
+  text-transform: none;
+  font-family: "Mystery Quest", sans-serif;
 }
 
 /* THEIR word */
