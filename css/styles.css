@@ -660,16 +660,46 @@ body {
 /* TO word */
 
 .toTLetter {
+  font-size: 120px;
+  font-weight: 400;
+  color: rgb(95, 245, 175);
+  background-color: rgb(245, 95, 172);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Ceviche One", sans-serif;
+  border-radius: 20px;
 }
+
 .toOLetter {
+  font-size: 80px;
+  font-weight: 400;
+  color: #162add;
+  background-color: #ddc916;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Mystery Quest", sans-serif;
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+  font-size: 150px;
+  font-weight: 400;
+  color: #F5B901;
+  background-color:#060606;
+  text-shadow: #AB0A00 -5px 2px 20px, #AB0A00 5px 2px 20px;
+  border-radius: 65px;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Ceviche One", sans-serif;
 }
+
 .improveMLetter {
 }
+
 .improvePLetter {
 }
 .improveRLetter {
