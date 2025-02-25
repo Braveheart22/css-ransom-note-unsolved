@@ -921,8 +921,32 @@ body {
 /* SYMBOLS */
 
 .hyphen {
+  font-size: 100px;
+  font-weight: bold;
+  color: rgb(68, 0, 75);
+  background-color: deeppink;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Piazolla", sans-serif;
 }
+
 .exclamation-mark {
+  font-size: 70px;
+  font-weight: bold;
+  color: coral;
+  background-color: rebeccapurple;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Gorditas", sans-serif;
 }
+
 .question-mark {
+  font-size: 72px;
+  font-weight: 400;
+  color: rgb(196, 31, 31);
+  background-color: rgb(243, 247, 13);
+  font-style: normal;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Yellowtail", sans-serif;
 }
