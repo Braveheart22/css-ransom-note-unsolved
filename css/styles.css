@@ -797,8 +797,9 @@ body {
 .theirILetter {
   font-size: 72px;
   font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
+  color: deeppink;
+  background-color: rgb(68, 0, 75);
+  text-decoration: none;
   text-transform: none;
   font-family: "Piazolla", sans-serif;
 }
@@ -806,8 +807,9 @@ body {
 .theirRLetter {
   font-size: 72px;
   font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
+  color: rgb(68, 0, 75);
+  background-color: deeppink;
+  text-decoration: none;
   text-transform: none;
   font-family: "Piazolla", sans-serif;
 }
