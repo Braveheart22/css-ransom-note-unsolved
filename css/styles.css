@@ -249,7 +249,7 @@ body {
 }
 
 .developerELetter {
-  font-size: 75px;
+  font-size: 66px;
   font-weight: bold;
   color: brown;
   background-color: orange;
@@ -838,7 +838,7 @@ body {
 
 .rootOTwoLetter {
   font-size: 72px;
-  font-weight: bold;
+  font-weight: normal;
   color: rgb(8, 211, 201);
   background-color: rgb(0, 94, 8);
   text-decoration: none;
@@ -848,7 +848,7 @@ body {
 
 .rootTLetter {
   font-size: 40px;
-  font-weight: bold;
+  font-weight: normal;
   color: #f1f1f1;
   background-color: #002868;
   text-decoration: overline underline #bf0a30;
