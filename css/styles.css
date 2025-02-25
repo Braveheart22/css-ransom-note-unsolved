@@ -859,16 +859,63 @@ body {
 /* SKILLS word */
 
 .skillsSLetter {
+  font-size: 172px;
+  font-weight: normal;
+  color: #0057b7;
+  background-color: #ffdd00;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Caesar Dressing", sans-serif;
 }
+
 .skillsKLetter {
+  font-size: 60px;
+  font-weight: normal;
+  color: #ff9900;
+  background-color: #000000;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: "Fontdiner Swanky", sans-serif;
 }
+
 .skillsILetter {
+  font-size: 36px;
+  font-weight: normal;
+  color: #869397;
+  background-color: #041e42;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: "Mystery Quest", sans-serif;
 }
+
 .skillsLLetter {
+  font-size: 80px;
+  font-weight: normal;
+  color: #9fa9b2;
+  background-color: #00643d;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Gorditas", sans-serif;
 }
+
 .skillsLTwoLetter {
+  font-size: 72px;
+  font-weight: normal;
+  color: #158fd4;
+  background-color: #01050b;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Yellowtail", sans-serif;
 }
+
 .skillsSTwoLetter {
+  font-size: 90px;
+  font-weight: normal;
+  color: #cb7876;
+  background-color: #a0c5e3;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Ceviche One", sans-serif;
 }
 
 /* SYMBOLS */
