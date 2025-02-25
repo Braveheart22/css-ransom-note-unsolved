@@ -687,9 +687,9 @@ body {
 .improveILetter {
   font-size: 150px;
   font-weight: 400;
-  color: #F5B901;
-  background-color:#060606;
-  text-shadow: #AB0A00 -5px 2px 20px, #AB0A00 5px 2px 20px;
+  color: #f5b901;
+  background-color: #060606;
+  text-shadow: #ab0a00 -5px 2px 20px, #ab0a00 5px 2px 20px;
   border-radius: 65px;
   font-style: normal;
   text-decoration: none;
@@ -766,14 +766,50 @@ body {
 /* THEIR word */
 
 .theirTLetter {
+  font-size: 72px;
+  font-weight: bold;
+  color: rgb(6, 31, 83);
+  background-color: #dd7016;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: "Gorditas", sans-serif;
 }
+
 .theirHLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: aqua;
+  text-decoration: underline overline;
+  text-transform: uppercase;
+  font-family: "Piazolla", sans-serif;
 }
+
 .theirELetter {
+  font-size: 100px;
+  font-weight: bold;
+  color: rgb(60, 151, 95);
+  background-color: #dd7016;
+  text-decoration: line-through rgb(75, 189, 118);
+  text-transform: none;
+  font-family: "Ceviche One", sans-serif;
 }
+
 .theirILetter {
+  font-size: 72px;
+  font-weight: bold;
+  color: aqua;
+  text-decoration: underline;
+  text-transform: none;
+  font-family: "Piazolla", sans-serif;
 }
+
 .theirRLetter {
+  font-size: 72px;
+  font-weight: bold;
+  color: aqua;
+  text-decoration: underline;
+  text-transform: none;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* ROOT word */
